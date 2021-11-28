@@ -1,0 +1,11 @@
+C:\ModoZeroVs\Aula4\TelaDeLoginESenha\TelaDeLoginESenha\bin\Debug\TelaDeLoginESenha.exe.config
+C:\ModoZeroVs\Aula4\TelaDeLoginESenha\TelaDeLoginESenha\bin\Debug\TelaDeLoginESenha.exe
+C:\ModoZeroVs\Aula4\TelaDeLoginESenha\TelaDeLoginESenha\bin\Debug\TelaDeLoginESenha.pdb
+C:\ModoZeroVs\Aula4\TelaDeLoginESenha\TelaDeLoginESenha\obj\Debug\TelaDeLoginESenha.csproj.AssemblyReference.cache
+C:\ModoZeroVs\Aula4\TelaDeLoginESenha\TelaDeLoginESenha\obj\Debug\TelaDeLoginESenha.Form1.resources
+C:\ModoZeroVs\Aula4\TelaDeLoginESenha\TelaDeLoginESenha\obj\Debug\TelaDeLoginESenha.Properties.Resources.resources
+C:\ModoZeroVs\Aula4\TelaDeLoginESenha\TelaDeLoginESenha\obj\Debug\TelaDeLoginESenha.csproj.GenerateResource.cache
+C:\ModoZeroVs\Aula4\TelaDeLoginESenha\TelaDeLoginESenha\obj\Debug\TelaDeLoginESenha.csproj.CoreCompileInputs.cache
+C:\ModoZeroVs\Aula4\TelaDeLoginESenha\TelaDeLoginESenha\obj\Debug\TelaDeLoginESenha.exe
+C:\ModoZeroVs\Aula4\TelaDeLoginESenha\TelaDeLoginESenha\obj\Debug\TelaDeLoginESenha.pdb
+C:\ModoZeroVs\Aula4\TelaDeLoginESenha\TelaDeLoginESenha\obj\Debug\TelaDeLoginESenha.Form2.resources
